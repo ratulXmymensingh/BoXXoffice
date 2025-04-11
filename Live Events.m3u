@@ -1,7 +1,7 @@
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/diskd.png" group-title="Sp | Games Sports", IN| Tsports
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/diskd.png" group-title="sp | Games Sports", BD| Tsports
 https://live-test.tsports.com/live-02/master_1080.m3u8?hdntl=Expires=1744465197~_GO=Generated~URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Signature=Ac46gdgDFKUGIJLGO-cgLYOoTmjIq4JKTiPkRXxQ211fjPENFSaZnZOJPLTLTCT9LADMLwxvX9K5eJQjfHawmtt5GxEB
 
-#EXTINF:-1 tvg-logo="https://lo1.in/ind/madbng.png" group-title="AS | INDIA BANGLA", IN| MADANI TV BANGLA
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/madbng.png" group-title="sp | Games Sports", BD| Tsports
 https://live-test.tsports.com/live-02/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=17443787953600~hmac=b26e6721ec4e49882d1fb5774f1a6fa06b4a6307732d0599fa499cc286abad6c
 
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/ntge.png" group-title="AS | INDIA BANGLA", IN| NAT GEO HD BANGLA
