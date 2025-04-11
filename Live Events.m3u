@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Tsports.bd" tvg-logo="https://cdn.daily-sun.com/public/news_images/2022/02/01/01-02-2022.jpg" group-title="Sports",T Sports(Auto) [Not 24/7]
+#EXTINF:-1 tvg-id="Tsports.bd" tvg-logo="https://cdn.daily-sun.com/public/news_images/2022/02/01/01-02-2022.jpg" group-title="Sports",TSports(Auto) [Not 24/7]
 https://live-test.tsports.com/live-02/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=17443787953600~hmac=b26e6721ec4e49882d1fb5774f1a6fa06b4a6307732d0599fa499cc286abad6c
 #EXTINF:-1 tvg-id="tsports1.bd" tvg-logo="https://cdn.daily-sun.com/public/news_images/2022/02/01/01-02-2022.jpg" group-title="Sports",Tsports 1(Auto) [Not 24/7]
 https://live-test.tsports.com/live-01/master_1080.m3u8?hdntl=Expires=1744472295~_GO=Generated~URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Signature=Ac46gdhHMXS4QLgQ3kLiO4jp_a9Gxb-dGxD36TVi5v1MmprIKeSZCXIXQcpNZb9Iq3CFB5UpkMBGp3dIn50fvfNVhb8E
