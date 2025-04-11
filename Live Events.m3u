@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TSPORTS.bd" tvg-logo="https://i.imgur.com/ytH4Ncu.png" group-title="Sports",T Sports(Auto) [Not 24/7]
+#EXTINF:-1 tvg-id="Tsports.bd" tvg-logo="https://i.imgur.com/ytH4Ncu.png" group-title="Sports",T Sports(Auto) [Not 24/7]
 https://live-test.tsports.com/live-02/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=17443787953600~hmac=b26e6721ec4e49882d1fb5774f1a6fa06b4a6307732d0599fa499cc286abad6c
 #EXTINF:-1 tvg-id="AamarBangla.in" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/07/Aamar-Bangla.jpg" group-title="Entertainment",Amar Bangla TV (720p) [Not 24/7]
 https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
