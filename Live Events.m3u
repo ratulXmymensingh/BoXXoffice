@@ -1,2 +1,5 @@
-#EXTINF:-1 tvg-logo="https://www.tsports.com/assets/images/Logo%20tsports.svg" group-title="Sp | Soorts", | Tsports BD
+#EXTINF:-1 tvg-logo="https://www.tsports.com/assets/images/Logo%20tsports.svg" group-title="Sports | T sports", BD| Tsports Bd Live
+https://live-test.tsports.com/live-02/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=17443787953600~hmac=b26e6721ec4e49882d1fb5774f1a6fa06b4a6307732d0599fa499cc286abad6c
+
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/madbng.png" group-title="AS | INDIA BANGLA", IN| MADANI TV BANGLA
 https://live-test.tsports.com/live-02/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=17443787953600~hmac=b26e6721ec4e49882d1fb5774f1a6fa06b4a6307732d0599fa499cc286abad6c
